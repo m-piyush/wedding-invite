@@ -1,0 +1,6 @@
+{
+  "name": "Harshita Dubey & Satyam Pathak — Royal Wedding Invitation",
+  "description": "A cinematic, luxury interactive Indian digital wedding invitation for Harshita Dubey & Satyam Pathak at Jaiswal Marriage Garden, Bhopal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
