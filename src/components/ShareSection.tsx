@@ -168,7 +168,7 @@ _We look forward to celebrating this beautiful beginning with you._ 🥂🌸`;
             </div>
 
             <div className="text-xs md:text-sm font-cinzel text-[var(--accent-gold)] font-bold tracking-widest">
-              {wedding.couple.initials} • Bhopal 2026
+              {wedding.couple.initials} • Prayagraj 2026
             </div>
 
             <button
